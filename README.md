@@ -20,3 +20,5 @@
 ||||||||
 | 1 | [**First Bad Version**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/)             | [Solution](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%201%20May%201st%E2%80%93May%207th/1%20First%20Bad%20Version) | **O(logn)** | **O(1)** | Easy | ```Binary Search``` |
 ||||||||
+| 2 | [**Jewels and Stones**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/)             | [Solution](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%201%20May%201st%E2%80%93May%207th/2%20Jewels%20and%20Stones) | **O(n+m)** | **O(n)** | Easy | ```Set, Array``` |
+||||||||
