@@ -24,3 +24,5 @@
 ||||||||
 | 3 | [**Ransom Note**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/)             | [Solution](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%201%20May%201st%E2%80%93May%207th/3%20Ransom%20Note) | **O(n+m)** | **O(n+m)** | Easy | ```Hash Map``` |
 ||||||||
+| 4 | [**Number Complement**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/)             | [Solution](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%201%20May%201st%E2%80%93May%207th/4%20Number%20Complement) | **O(n)** | **O(1)** | Easy | ```Bit Manipulation``` |
+||||||||
