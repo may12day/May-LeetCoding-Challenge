@@ -28,3 +28,5 @@
 ||||||||
 | 5 | [**First Unique Character in a String**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/)             | [Solution](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%201%20May%201st%E2%80%93May%207th/5%20First%20Unique%20Character%20in%20a%20String) | **O(n)** | **O(n)** | Easy | ```Dequeue, Hash Map``` |
 ||||||||
+| 6 | [**Majority Element**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/)             | [Solution :star:](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%201%20May%201st%E2%80%93May%207th/6%20Majority%20Element) | **O(n)** | **O(1)** | Easy | ```Array``` |
+||||||||
