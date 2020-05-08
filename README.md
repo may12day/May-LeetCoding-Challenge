@@ -32,3 +32,11 @@
 ||||||||
 | 7 | [**Cousins in Binary Tree**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/)             | [Solution :star:](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%201%20May%201st%E2%80%93May%207th/7%20Cousins%20in%20Binary%20Tree) | **O(n)** | **O(n)** | Easy | ```Breadth First Search, Depth First Search, Tree``` |
 ||||||||
+
+### WEEK 2
+
+|  S.No. |                          Title                                       | Solutions |  Time | Space | Difficulty | Related Topics | 
+| :---:  |                          :---                                        |  :---:   |  :---: | :---: |    :---:   | :--- |
+||||||||
+| 1 | [**First Bad Version**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/)             | [Solution ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%202%20May%208th%E2%80%93May%2014th/1%20Check%20If%20It%20Is%20a%20Straight%20Line) | **O(n)** | **O(1)** | Easy | ```Array``` |
+||||||||
