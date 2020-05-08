@@ -38,5 +38,5 @@
 |  S.No. |                          Title                                       | Solutions |  Time | Space | Difficulty | Related Topics | 
 | :---:  |                          :---                                        |  :---:   |  :---: | :---: |    :---:   | :--- |
 ||||||||
-| 1 | [**First Bad Version**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/)             | [Solution ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%202%20May%208th%E2%80%93May%2014th/1%20Check%20If%20It%20Is%20a%20Straight%20Line) | **O(n)** | **O(1)** | Easy | ```Array``` |
+| 1 | [**Check If It Is a Straight Line**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/)             | [Solution ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%202%20May%208th%E2%80%93May%2014th/1%20Check%20If%20It%20Is%20a%20Straight%20Line) | **O(n)** | **O(1)** | Easy | ```Array``` |
 ||||||||
