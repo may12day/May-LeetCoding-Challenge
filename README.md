@@ -42,3 +42,5 @@
 ||||||||
 | 2 | [**Valid Perfect Square**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/)             | [Solution :star: ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%202%20May%208th%E2%80%93May%2014th/2%20Valid%20Perfect%20Square) | **O(logn)** | **O(1)** | Easy | ```Binary Search``` |
 ||||||||
+| 3 | [**Find the Town Judge**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/)             | [Solution :star: ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%202%20May%208th%E2%80%93May%2014th/3%20Find%20the%20Town%20Judge) | **O(n)** | **O(n)** | Easy | ```Hash Map``` |
+||||||||
