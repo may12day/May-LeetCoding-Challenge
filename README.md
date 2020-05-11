@@ -40,7 +40,9 @@
 ||||||||
 | 1 | [**Check If It Is a Straight Line**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/)             | [Solution ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%202%20May%208th%E2%80%93May%2014th/1%20Check%20If%20It%20Is%20a%20Straight%20Line) | **O(n)** | **O(1)** | Easy | ```Array``` |
 ||||||||
-| 2 | [**Valid Perfect Square**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/)             | [Solution :star: ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%202%20May%208th%E2%80%93May%2014th/2%20Valid%20Perfect%20Square) | **O(logn)** | **O(1)** | Easy | ```Binary Search``` |
+| 2 | [**Valid Perfect Square**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/)             | [Solution :star: ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%202%20May%208th%E2%80%93May%2014th/2%20Valid%20Perfect%20Square) | **O(logn)** | **O(1)** | Medium | ```Binary Search``` |
 ||||||||
-| 3 | [**Find the Town Judge**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/)             | [Solution :star: ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%202%20May%208th%E2%80%93May%2014th/3%20Find%20the%20Town%20Judge) | **O(n)** | **O(n)** | Easy | ```Hash Map``` |
+| 3 | [**Find the Town Judge**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/)             | [Solution :star: ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%202%20May%208th%E2%80%93May%2014th/3%20Find%20the%20Town%20Judge) | **O(n+m)** | **O(n)** | Easy | ```Hash Map``` |
+||||||||
+| 4 | [**Flood Fill**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3326/)             | [Solution :star: ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%202%20May%208th%E2%80%93May%2014th/4%20Flood%20Fill) | **O(m*n)** | **O(m*n)** | Medium | ```Depth First Search, Breadth First Search``` |
 ||||||||
