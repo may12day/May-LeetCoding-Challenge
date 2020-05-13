@@ -48,3 +48,5 @@
 ||||||||
 | 5 | [**Single Element in a Sorted Array**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/)             | [Solution :star: ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%202%20May%208th%E2%80%93May%2014th/5%20Single%20Element%20in%20a%20Sorted%20Array) | **O(logn)** | **O(1)** | Easy | ```Binary Search``` |
 ||||||||
+| 6 | [**Remove K Digits**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/)             | [Solution :star: ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%202%20May%208th%E2%80%93May%2014th/6%20Remove%20K%20Digits) | **O(n)** | **O(n)** | Medium | ```Array``` |
+||||||||
