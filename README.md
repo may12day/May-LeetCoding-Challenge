@@ -52,3 +52,11 @@
 ||||||||
 | 7 | [**Implement Trie (Prefix Tree)**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3329/)             | [Solution ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%202%20May%208th%E2%80%93May%2014th/7%20Implement%20Trie%20(Prefix%20Tree)) | **O(n)** | **O(n)** | Medium | ```Trie``` |
 ||||||||
+
+### WEEK 3
+
+|  S.No. |                          Title                                       | Solutions |  Time | Space | Difficulty | Related Topics | 
+| :---:  |                          :---                                        |  :---:   |  :---: | :---: |    :---:   | :--- |
+||||||||
+| 1 | [**Maximum Sum Circular Subarray**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-2-may-8th-may-14th/3330/)             | [Soution :star: ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%203%20May%2015th%E2%80%93May%2021st/1%20Maximum%20Sum%20Circular%20Subarray) | **O(n)** | **O(1)** | Medium | ```Circular Array``` |
+||||||||
