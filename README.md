@@ -68,3 +68,5 @@
 ||||||||
 | 5 | [**Online Stock Span**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-2-may-8th-may-14th/3334/)             | [Soution :star: ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%203%20May%2015th%E2%80%93May%2021st/5%20Online%20Stock%20Span) | **O(n)** | **O(n)** | Medium | ```Stack``` |
 ||||||||
+| 6 | [**Kth Smallest Element in a BST**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-2-may-8th-may-14th/3335/)             | [Soution :star: ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%203%20May%2015th%E2%80%93May%2021st/6%20Kth%20Smallest%20Element%20in%20a%20BST) | **O(logn)** | **O(1)** | Medium | ```Tree``` |
+||||||||
