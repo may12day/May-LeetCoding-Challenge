@@ -70,3 +70,5 @@
 ||||||||
 | 6 | [**Kth Smallest Element in a BST**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-2-may-8th-may-14th/3335/)             | [Soution :star: ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%203%20May%2015th%E2%80%93May%2021st/6%20Kth%20Smallest%20Element%20in%20a%20BST) | **O(logn)** | **O(1)** | Medium | ```Tree``` |
 ||||||||
+| 7 | [**Count Square Submatrices with All Ones**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-2-may-8th-may-14th/3336/)             | [Soution :star: ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%203%20May%2015th%E2%80%93May%2021st/7%20Count%20Square%20Submatrices%20with%20All%20Ones) | **O(m*n)** | **O(1)** | Medium | ```Dynamic Programming, Matrix``` |
+||||||||
