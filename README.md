@@ -72,3 +72,11 @@
 ||||||||
 | 7 | [**Count Square Submatrices with All Ones**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-2-may-8th-may-14th/3336/)             | [Soution :star: ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%203%20May%2015th%E2%80%93May%2021st/7%20Count%20Square%20Submatrices%20with%20All%20Ones) | **O(m*n)** | **O(1)** | Medium | ```Dynamic Programming, Matrix``` |
 ||||||||
+
+### WEEK 4
+
+|  S.No. |                          Title                                       | Solutions |  Time | Space | Difficulty | Related Topics | 
+| :---:  |                          :---                                        |  :---:   |  :---: | :---: |    :---:   | :--- |
+||||||||
+| 1 | [**Sort Characters By Frequency**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3337/)             | [Soution :star: ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%204%20May%2022nd%E2%80%93May%2028th/1%20Sort%20Characters%20By%20Frequency) | **O(n)** | **O(n)** | Medium | ```Bucket Sort, Heap, String``` |
+||||||||
