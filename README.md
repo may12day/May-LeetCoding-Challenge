@@ -82,3 +82,5 @@
 ||||||||
 | 2 | [**Interval List Intersections**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3338/)             | [Soution :star: ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%204%20May%2022nd%E2%80%93May%2028th/2%20Interval%20List%20Intersections) | **O(m+n)** | **O(n)** | Medium | ```Two pointers``` |
 ||||||||
+| 3 | [**Construct Binary Search Tree from Preorder Traversal**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3339/)             | [Soution :star: ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%204%20May%2022nd%E2%80%93May%2028th/3%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal) | **O(n)** | **O(n)** | Medium | ```Tree, Stack, Recursion``` |
+||||||||
