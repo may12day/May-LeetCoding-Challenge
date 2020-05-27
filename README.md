@@ -88,3 +88,5 @@
 ||||||||
 | 5 | [**Contiguous Array**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3341/)             | [Soution :star: ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%204%20May%2022nd%E2%80%93May%2028th/5%20Contiguous%20Array) | **O(n)** | **O(n)** | Medium | ```Hash Map``` |
 ||||||||
+| 6 | [**Possible Bipartition**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3342/)             | [Soution ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%204%20May%2022nd%E2%80%93May%2028th/6%20Possible%20Bipartition) | **O(n)** | **O(n)** | Medium | ```Graph``` |
+||||||||
