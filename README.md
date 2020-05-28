@@ -90,3 +90,5 @@
 ||||||||
 | 6 | [**Possible Bipartition**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3342/)             | [Soution ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%204%20May%2022nd%E2%80%93May%2028th/6%20Possible%20Bipartition) | **O(n)** | **O(n)** | Medium | ```Graph``` |
 ||||||||
+| 7 | [**Counting Bits**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3343/)             | [Soution :star:](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%204%20May%2022nd%E2%80%93May%2028th/7%20Counting%20Bits) | **O(n)** | **O(n)** | Medium | ```Dynamic Programming, Bit Manipulation``` |
+||||||||
