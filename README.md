@@ -100,3 +100,5 @@
 ||||||||
 | 1 | [**Course Schedule**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-4-may-22nd-may-28th/3344/)             | [Soution :star: ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%204%20May%2022nd%E2%80%93May%2028th/1%20Course%20Schedule) | **O(n)** | **O(n)** | Medium | ```Graph, Topological Sort, Detect Cycle``` |
 ||||||||
+| 2 | [**K Closest Points to Origin**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-4-may-22nd-may-28th/3344/)             | [Soution ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%204%20May%2022nd%E2%80%93May%2028th/1%20Course%20Schedule) | **O(nlogk)** | **O(n)** | Medium | ```Heap``` |
+||||||||
