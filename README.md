@@ -100,5 +100,7 @@
 ||||||||
 | 1 | [**Course Schedule**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-4-may-22nd-may-28th/3344/)             | [Soution :star: ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%204%20May%2022nd%E2%80%93May%2028th/1%20Course%20Schedule) | **O(n)** | **O(n)** | Medium | ```Graph, Topological Sort, Detect Cycle``` |
 ||||||||
-| 2 | [**K Closest Points to Origin**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-4-may-22nd-may-28th/3344/)             | [Soution ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%204%20May%2022nd%E2%80%93May%2028th/1%20Course%20Schedule) | **O(nlogk)** | **O(n)** | Medium | ```Heap``` |
+| 2 | [**K Closest Points to Origin**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-4-may-22nd-may-28th/3345/)             | [Soution ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%204%20May%2022nd%E2%80%93May%2028th/2%20K%20Closest%20Points%20to%20Origin) | **O(nlogk)** | **O(n)** | Medium | ```Heap``` |
+||||||||
+| 3 | [**Edit Distance**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-4-may-22nd-may-28th/3346/)             | [Soution ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%204%20May%2022nd%E2%80%93May%2028th/3%20Edit%20Distance) | **O(m*n)** | **O(m*n)** | Hard | ```Dynamic Programming``` |
 ||||||||
