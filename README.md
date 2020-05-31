@@ -98,9 +98,9 @@
 |  S.No. |                          Title                                       | Solutions |  Time | Space | Difficulty | Related Topics | 
 | :---:  |                          :---                                        |  :---:   |  :---: | :---: |    :---:   | :--- |
 ||||||||
-| 1 | [**Course Schedule**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-4-may-22nd-may-28th/3344/)             | [Soution :star: ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%205%20May%2029th%E2%80%93May%2031st/1%20Course%20Schedule) | **O(n)** | **O(n)** | Medium | ```Graph, Topological Sort, Detect Cycle``` |
+| 1 | [**Course Schedule**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3344/)             | [Soution :star: ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%205%20May%2029th%E2%80%93May%2031st/1%20Course%20Schedule) | **O(n)** | **O(n)** | Medium | ```Graph, Topological Sort, Detect Cycle``` |
 ||||||||
-| 2 | [**K Closest Points to Origin**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-4-may-22nd-may-28th/3345/)             | [Soution ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%205%20May%2029th%E2%80%93May%2031st/2%20K%20Closest%20Points%20to%20Origin) | **O(nlogk)** | **O(n)** | Medium | ```Heap``` |
+| 2 | [**K Closest Points to Origin**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3345/)             | [Soution ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%205%20May%2029th%E2%80%93May%2031st/2%20K%20Closest%20Points%20to%20Origin) | **O(nlogk)** | **O(n)** | Medium | ```Heap``` |
 ||||||||
-| 3 | [**Edit Distance**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-4-may-22nd-may-28th/3346/)             | [Soution :star: ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%205%20May%2029th%E2%80%93May%2031st/3%20Edit%20Distance) | **O(m*n)** | **O(m*n)** | Hard | ```Dynamic Programming``` |
+| 3 | [**Edit Distance**](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3346/)             | [Soution :star: ](https://github.com/may12day/May-LeetCoding-Challenge/tree/master/Week%205%20May%2029th%E2%80%93May%2031st/3%20Edit%20Distance) | **O(m*n)** | **O(m*n)** | Hard | ```Dynamic Programming``` |
 ||||||||
